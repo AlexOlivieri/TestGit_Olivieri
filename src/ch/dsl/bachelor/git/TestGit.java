@@ -11,5 +11,8 @@ public class TestGit {
 	public String returnTheString(){
 		return this.gitFromScratch;
 	}
+	
+	public static void main(String[] args) {
+	}
 
 }
